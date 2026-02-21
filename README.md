@@ -104,6 +104,3 @@ If deployed, this model enables:
 
 ---
 
-## 🔥 Resume-Ready Summary
-
-Built an end-to-end churn prediction pipeline on 15K Waze users using Logistic Regression, Random Forest, and XGBoost. Improved churn detection from 9% to ~50% through threshold optimization, delivering a business-aligned model for targeted retention strategies.hold optimization, delivering a business-aligned model for targeted retention strategies.
